@@ -4,7 +4,7 @@ Download mask_rcnn_coco.h5 and paste in your Project folder.
 
 Create dataset folder and paste your dataset there.
 
-### To understand this code, check this vvideo: https://youtu.be/7ECsYizxC9E
+
 
 ![image](https://user-images.githubusercontent.com/60029146/159105041-4445b22d-f0ec-487c-90bc-0504b00b7ea8.png)
 
